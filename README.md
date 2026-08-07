@@ -21,7 +21,9 @@ Available icons:
 | <img src="./droid.svg" width="32" height="32" alt="Droid"> | Droid | `droid.svg` |
 | <img src="./github-copilot.svg" width="32" height="32" alt="GitHub Copilot"> | GitHub Copilot | `github-copilot.svg` |
 | <img src="./grok.svg" width="32" height="32" alt="Grok"> | Grok | `grok.svg` |
+| <img src="./hermes.svg" width="32" height="32" alt="Hermes"> | Hermes | `hermes.svg` |
 | <img src="./openai.svg" width="32" height="32" alt="OpenAI"> | OpenAI | `openai.svg` |
+| <img src="./openclaw.svg" width="32" height="32" alt="OpenClaw"> | OpenClaw | `openclaw.svg` |
 | <img src="./opencode-logo-light.svg" width="32" height="32" alt="OpenCode"> | OpenCode | `opencode-logo-light.svg` |
 | <img src="./pi-coding-agent.svg" width="32" height="32" alt="Pi coding agent"> | Pi coding agent | `pi-coding-agent.svg` |
 
