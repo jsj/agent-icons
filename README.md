@@ -18,6 +18,7 @@ Available icons:
 | <img src="./claude.svg" width="32" height="32" alt="Claude"> | Claude | `claude.svg` |
 | <img src="./codex.svg" width="32" height="32" alt="Codex"> | Codex | `codex.svg` |
 | <img src="./cursor.svg" width="32" height="32" alt="Cursor"> | Cursor | `cursor.svg` |
+| <img src="./droid.svg" width="32" height="32" alt="Droid"> | Droid | `droid.svg` |
 | <img src="./github-copilot.svg" width="32" height="32" alt="GitHub Copilot"> | GitHub Copilot | `github-copilot.svg` |
 | <img src="./grok.svg" width="32" height="32" alt="Grok"> | Grok | `grok.svg` |
 | <img src="./openai.svg" width="32" height="32" alt="OpenAI"> | OpenAI | `openai.svg` |
